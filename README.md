@@ -35,3 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 Hi i am poornima , i am devops engineer.
+this is my second project for ci/cd now its working
+this project name is system7.
+i need to check wheather cicd is working. 
+testing.
