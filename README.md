@@ -39,3 +39,6 @@ this is my second project for ci/cd now its working
 this project name is system7.
 i need to check wheather cicd is working. 
 testing.
+
+Hi today is tuesday i am pushing the new code to check wheather i will deploy ci/cd or not.
+
